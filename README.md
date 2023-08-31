@@ -1,1 +1,0 @@
-shel Basics Readme
